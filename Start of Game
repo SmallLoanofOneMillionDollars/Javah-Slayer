@@ -1,0 +1,8 @@
+public class startOfGame{
+    public void gameStart(){
+        
+        System.out.println("Welcome to the world of Javah, your typical fantasy game.");
+        System.out.println("In this world you must battle monsters and gain strength in order to defeat the five titans.");
+        System.out.println("What is your name, brave adventurer?");       
+    }
+}
