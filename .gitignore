@@ -24,7 +24,7 @@ hs_err_pid*
 
 import java.util.Scanner;
 
-public class  {
+public class javahSlayer{
     public void startOfGame(){
         
         System.out.println("Welcome to the world of Javah, your typical fantasy game.");
