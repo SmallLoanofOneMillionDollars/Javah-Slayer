@@ -1,7 +1,7 @@
 public class startOfGame{
     String name;
     String characterClass;
-    public String gameBackground(){
+    public void gameBackground(){
         name = “”;
         characterClass = “”;
         System.out.println("Welcome to the world of Javah, your typical fantasy game.");
